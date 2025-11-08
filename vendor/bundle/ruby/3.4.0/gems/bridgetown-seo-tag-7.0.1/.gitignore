@@ -1,0 +1,9 @@
+*.gem
+.bundle
+.yardoc
+pkg
+spec/reports/
+spec/fixtures/.bridgetown-cache
+tmp/
+vendor/bundle
+.ruby-version

@@ -1,0 +1,26 @@
+inherit_from: .rubocop_todo.yml
+
+require: rubocop-bridgetown
+inherit_gem:
+  rubocop-bridgetown: .rubocop.yml
+
+AllCops:
+  TargetRubyVersion: 3.1
+  Exclude:
+    - vendor/**/*
+
+Layout/LineLength:
+  Exclude:
+    - spec/**/*
+    - bridgetown-seo-tag.gemspec
+
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*
+
+Lint/MissingSuper:
+  Enabled: false
+
+Performance/CollectionLiteralInLoop:
+  Exclude:
+    - spec/**/*

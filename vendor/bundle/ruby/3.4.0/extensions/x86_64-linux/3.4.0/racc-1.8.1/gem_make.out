@@ -1,0 +1,18 @@
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/home/anantone/.rbenv/versions/3.4.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251108-246702-q0gj7y sitelibdir\=./.gem.20251108-246702-q0gj7y clean
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251108-246702-q0gj7y sitelibdir\=./.gem.20251108-246702-q0gj7y
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251108-246702-q0gj7y sitelibdir\=./.gem.20251108-246702-q0gj7y install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20251108-246702-q0gj7y/racc
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251108-246702-q0gj7y sitelibdir\=./.gem.20251108-246702-q0gj7y clean
