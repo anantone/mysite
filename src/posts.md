@@ -11,4 +11,3 @@ title: Posts
   <% end %>
 </ul>
 
-Future posts go here.
