@@ -17,7 +17,7 @@ Although NINI began as a CLI program (in Python, with few dependencies to connec
 
 Only after someone uses at least one of the three features does the program offer access to a more or less white paper explaining what my intentions were.
 
-After completing the project, I thought, in a spirit of scientific equanimity, that I should ask an AI its opinion. Here is what ChatGPT has to say after I asked its "opinion" on my white paper:
+After completing the project, I thought, in a spirit of scientific equanimity, that I should ask an AI its opinion. Here is what ChatGPT had to say after I asked its "opinion" on my white paper:
 
 ***
 
