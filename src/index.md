@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to Anantone's Corner
 
-This is currently a test website, with the potential to become a kind of blog
+This is currently a test website, with the potential to become a blog
 about programming and writing.
 
 ## Previous posts
