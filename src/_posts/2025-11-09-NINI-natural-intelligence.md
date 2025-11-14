@@ -15,9 +15,9 @@ Although NINI began as a CLI program (in Python, with few dependencies to connec
 - [source code](https://github.com/anantone/NINI)
 - [webapp]( https://anbarto.pythonanywhere.com)
 
-Only after someone uses at least one of the three features does the program offer access to a more or less [white paper](https://github.com/anantone/NINI/blob/main/Technical_white_paper.md) explaining what my intentions were.
+In the program, I use cookies so that only after trying _at least one_ of the features does one get access to a [more or less white](https://github.com/anantone/NINI/blob/main/Technically_white_paper.txt) paper explaining what my intentions were (but because you're special, [you can read it here](https://github.com/anantone/NINI/blob/main/Technical_white_paper.md)).
 
-After completing the project, I thought, in a spirit of scientific equanimity, that I should ask an AI its opinion. Here is what ChatGPT had to say:
+After completing the project, I thought, in a spirit of scientific equanimity, that I should also ask an AI its opinion. Here is what ChatGPT had to say:
 
 ***
 
