@@ -1,0 +1,19 @@
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+/home/anantone/.rbenv/versions/3.4.6/bin/ruby extconf.rb
+checking for rb_io_mode_t in ruby/io.h... no
+creating Makefile
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251119-137818-il9obd sitelibdir\=./.gem.20251119-137818-il9obd clean
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251119-137818-il9obd sitelibdir\=./.gem.20251119-137818-il9obd
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251119-137818-il9obd sitelibdir\=./.gem.20251119-137818-il9obd install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20251119-137818-il9obd
+
+current directory: /home/anantone/Coding/bridgetown/mysite/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251119-137818-il9obd sitelibdir\=./.gem.20251119-137818-il9obd clean
