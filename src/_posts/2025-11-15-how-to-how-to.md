@@ -4,7 +4,7 @@ title:  "How-to: Write a how-to"
 date:   2025-11-15 10:33:03 +0100
 categories: docs
 ---
-This guide shows how to write a how-to guide to show how to use any type of resource that [requires documentation](./what-requires-documentation).
+This guide shows how to write a how-to guide to show how to use any type of resource that [requires documentation](/docs/2025/12/22/what-requires-documentation).
 
 ## What you will need
 

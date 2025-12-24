@@ -8,9 +8,9 @@ Some time ago, I wanted to make a web application. I had been learning Python, m
 
 Then my Python courses started talking about [object-oriented programming (OOP)][oop]. While researching the notion, I saw that this language called [Ruby][ruby] was exclusively built for OOP, and thought I'd give it a try. Six months later, I'm mostly picking Ruby over Python when I want to have fun, and I'm looking for a web framework, again. 
 
-Have you heard about [Rails][rails]? It seems to have become so popular, some years ago, that people knew "Ruby on Rails" before Ruby itself. That was before my time, though. As a Ruby newbie, I'm looking for something as simple as Bottle was in Python, which does well enough the things I need to do. So here I am [trying Sinatra][sinatra].
+Have you heard about [Rails][rails]? It seems to have become so popular, some years ago, that people knew "Ruby on Rails" before Ruby itself. That was before my time, though. As a Ruby newbie, I'm looking for something as simple as Bottle was in Python, which does well enough the things that I need to do. So here I am [trying Sinatra][sinatra].
 
-The first thing I see, that's similar to bottle, is a simple way to define routes. In my main file, all I need to do is:
+The first thing I see, that's similar to Bottle, is a simple way to define routes. In my main file, all I need to do is:
 
 1) ```ruby
 require 'sinatra'```
