@@ -2,9 +2,9 @@
 layout: default
 ---
 
-That's me on [Github](https://github.com/anantone) and [Codeberg](https://codeberg.org/anantone)
+# Welcome to anantone[^1]'s Corner
 
-# Welcome to Anantone's Corner
+[^1]: That's me on [Github](https://github.com/anantone) and [Codeberg](https://codeberg.org/anantone)
 
 This is currently a test website, with the [potential](https://anantone.me/projects/ruby-tools/2025/11/13/learning-bridgetown/) to become a blog
 about programming and writing.
