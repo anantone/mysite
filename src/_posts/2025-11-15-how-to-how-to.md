@@ -4,7 +4,7 @@ title:  "How-to: Write a how-to"
 date:   2025-11-15 10:33:03 +0100
 categories: docs
 ---
-This guide shows how to write a how-to guide to show how to use any type of resource that [requires documentation](/docs/2025/12/22/what-requires-documentation).
+This guide shows how to write a how-to guide to show how to use any type of resource that [requires documentation][what-requires-documentation].
 
 ## What you will need
 
@@ -19,7 +19,7 @@ To determine if you need to be writing documentation for a specific resource, yo
 - the range of technical know-how that can be expected from potential users.
 - the differential between expected users know-how and specific resource requirements.
 
-> For more details, please read our [in-depth explanation](./what-requires-documentation). For the context of this how-to guide, it is sufficient 
+> For more details, please read our [in-depth explanation][what-requires-documentation]. For the context of this how-to guide, it is sufficient 
 > that you define the three above elements for your use case. As an example, this guide would consider:
 > - users to be part of a hiring team, whose purpose is to evaluate the current writer's skills by reading this document.
 > - having extensive experience writing documentation and/or a clear idea of what "good" documentation is (as well as a sense of what a "good" candidate would be for the role of technical author at Canonical).
@@ -52,3 +52,6 @@ This guide shows how to demonstrate an interest in the process and purpose of wr
 - A nerdy persistence to somehow complete this document satisfactorily
 
 #### Where to begin
+
+
+[what-requires-documentation]: /docs/2025/12/22/what-requires-documentation
