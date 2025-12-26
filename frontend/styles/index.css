@@ -100,3 +100,9 @@ hr {
   border-top: 2px dotted #bbb;
   margin: 3rem 0;
 }
+
+.highlight pre,
+.highlight code {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}

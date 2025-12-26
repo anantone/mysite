@@ -4,7 +4,7 @@ title:  "Intro to Roda (a Ruby web framework) Episode 1"
 date:   2025-12-25 06:12:03 +0100
 categories: ruby-tools
 ---
-Roda is a [routing tree web toolkit][roda] which, if you've read my post about Sinatra, seems to provide the same simplicity to write routes for a web application, with the added advantage of a tree structure to avoid repetitions (more on that later, if/when it applies to my project).
+Roda is a [routing tree web toolkit][roda] which, if you've read [my post about Sinatra][sinatra-post], seems to provide the same simplicity to write routes for a web application, with the added advantage of a tree structure to avoid repetitions (more on that later, if/when it applies to my project).
 
 For now, I thought that a similar "Intro do Roda" post was in order, as this may be the framework that I use in the future, and learn more about, and complete more episodes about on this site.
 
@@ -29,3 +29,4 @@ You will notice two additions:
 Now, same as with Sinatra in the previous post, it's time to add more complex features... in Episode 2!
 
 [roda]: https://roda.jeremyevans.net/
+[sinatra-post]: /ruby-tools/2025/12/24/intro-to-sinatra/
